@@ -17,14 +17,6 @@ To run this web application locally, follow these steps:
 2. Open the project folder: `cd to-do-list-web-app`
 3. Open `index.html` in your web browser.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Open a pull request.
+Special thanks to Octanet platform for providing me this oppurtinity to make this wonderfull app
 
 Happy task managing! 🚀
